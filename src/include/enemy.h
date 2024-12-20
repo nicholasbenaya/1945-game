@@ -1,5 +1,7 @@
 #ifndef ENEMY_H
 #define ENEMY_H
+#include <ncurses.h>
+#include <stdlib.h>
 
 typedef struct Enemy {
     int x, y; // position of the enemy

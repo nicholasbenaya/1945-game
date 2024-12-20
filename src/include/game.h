@@ -5,8 +5,8 @@
 #include "projectile.h"
 #include "util.h"
 
-#define MAX_ENEMIES 10
-#define MAX_PROJECTILES 20
+#define MAX_ENEMIES 20
+#define MAX_PROJECTILES 10
 
 void start_game();
 
