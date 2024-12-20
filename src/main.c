@@ -9,6 +9,7 @@ int main() {
     cbreak();
     curs_set(0);
     keypad(stdscr, TRUE);
+    nodelay(stdscr, TRUE);
 
     start_game();
 

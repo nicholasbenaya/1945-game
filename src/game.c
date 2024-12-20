@@ -30,6 +30,6 @@ void start_game() {
         render_ui(player.health, player.score);
 
         refresh();
-        usleep(40000);
+        usleep(50000);
     }
 }
