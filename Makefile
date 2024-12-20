@@ -8,7 +8,7 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = -lncurses
 
 # Makefile settings - Can be customized.
-APPNAME = myapp
+APPNAME = 1945
 EXT = .c
 SRCDIR = src
 OBJDIR = obj
